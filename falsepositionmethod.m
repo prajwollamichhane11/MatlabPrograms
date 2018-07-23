@@ -1,3 +1,6 @@
+%False Position Method
+%or Method of Chords
+
 a= input('first');
 b = input('last');
 n = input('No. of decimal places:');
